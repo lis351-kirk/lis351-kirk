@@ -1,1 +1,1 @@
-https://lis351-kirk.github.io/
+lis351-kirk.github.io
