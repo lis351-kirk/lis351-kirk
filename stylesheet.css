@@ -1,0 +1,51 @@
+* {
+	font-family: Arial,Verdana, sans-serif;
+	color: #black;
+}
+
+h1 {
+	text-align: center;
+
+}
+
+h2 {
+	margin: 10px;
+}
+
+h3 {
+	padding: 20px;
+	margin: 10px;
+}
+
+h4 {
+	margin: 10px;
+}
+
+body {
+	width: 1420px;
+	margin: 0 auto;
+	border: groove;
+	border-color: #404B00;
+}
+
+nav {
+	text-align; center;
+	background-color: #51662c;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+	margin: 10px;
+}
+
+nav ul li{
+	padding: 0 30px 0 30px;
+}
